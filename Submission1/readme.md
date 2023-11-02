@@ -14,5 +14,5 @@ Watch my presentation on YouTube: [Presentation Video](<URL_OF_YOUTUBE_VIDEO>)
 Group Number: 7
 
 ## Individual Submitter
-- Name: Md. Tanvir Jawad
-- Student ID: 21101221
+- **Name:** Md. Tanvir Jawad
+- **Student ID:** 21101221
