@@ -2,7 +2,7 @@
 # Agent-Based Tsunami Evacuation Simulation for Disaster Education
 
 ## Paper Link
-Paper Link: [Agent-based tsunami evacuation simulation for disaster education here: [| IEEE Conference Publication | IEEE Xplore
+Paper Link: The paper can be found on | IEEE Conference Publication | IEEE Xplore : [Agent-based tsunami evacuation simulation for disaster education
 ](https://ieeexplore.ieee.org/document/6588087).
 ## PDF Report
 The public link to the report can be accessed here: [Report](https://docs.google.com/document/d/1GAmikrzqY8WDfR39DW29vciIrErhWvx2jTeK9DOgEOg/edit).
