@@ -2,7 +2,7 @@
 # Pre-hospital simulation model for medical disaster management
 
 ## Paper Link
-The paper can be found on | IEEE Conference Publication | IEEE Xplore : [Pre-hospital simulation model for medical disaster management
+The paper can be found on | ACM Digital Library | [Pre-hospital simulation model for medical disaster management
 ](https://dl.acm.org/doi/10.5555/2675983.2676285).
 ## PDF Report
 The public link to the report can be accessed here: [Report](https://docs.google.com/document/d/10tQJG6VgyVAy8iGO3Z7UA48-z-lEBFwJKZ4TTdp8OP0/edit).
